@@ -1,2 +1,1 @@
-# task_invento
-ry_managment
+# task_inventory_managment
